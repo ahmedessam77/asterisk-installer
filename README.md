@@ -12,7 +12,7 @@ This script automates the process of installing Asterisk PBX on an Ubuntu system
 
 2. **Run the Script**:
    ```bash
-   sudo ./install.sh
+   sudo bash ./install.sh
    ```
 
 ## Prerequisites
